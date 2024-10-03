@@ -29,5 +29,5 @@ Objective 3: From the regression analysis, the variables age, iteam purchased, d
 
 Objective 4: From the Chi-Square test, the result shows if there's a significant association between the two categorical variables Promo Code Used and Discount Applied. The chi-square (χ2) had a value of 3900 and _p_>0.05 and an effect size of 1.00 and a _p_>0.05 indictaing that there is a significant association between Promo Code Used and Discount Applied meaning people who use promo codes are more likely to have discounts applied. <br />
 
-Objective 5: From the P.C.A, the variable iteam purchased in the communalities table had a variance of 0.644
+Objective 5: From the P.C.A, the variable iteam purchased in the communalities table had  highest variance of 0.644 implying that it contributed the highest to the componet
 
