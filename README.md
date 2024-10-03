@@ -16,8 +16,8 @@ Objective 4: Association Analysis (Chi-Square Test) Determination of the relatio
 
 # Hypothesis Testing
 * Is there a significant difference in total spend based on customer segments (e.g., age, frequency of purchase, previous purchases)? <br />
-  H<sub>0</sub>: There is no significant difference in total spend based on customer segments <br />
-  H<sub>1</sub>:There is significant difference in total spend based on customer segments
+  H<sub>0</sub> : There is no significant difference in total spend based on customer segments <br />
+  H<sub>1</sub> : There is significant difference in total spend based on customer segments
 * Is there a significant association in promo code used and discount applied? <br />
 
 # Insights
