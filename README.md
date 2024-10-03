@@ -10,8 +10,6 @@ Objective 3: Predictive Modeling (Linear Regression) Determinations of the facto
 
 Objective 4: Association Analysis (Chi-Square Test) Determination of the relationship between the categorical variables Promo Code Used and Discount Applied. <br />
 
-Objective 5: Factor Analysis (Principle Component Analysis) Explore underlying dimensions among variables like Season, Item Purchased, Size, and Color that influence customer preferences. <br />
-
 # Tools I Used
 * IBM SPSS 26
 * Microsoft Word <br />
@@ -28,6 +26,4 @@ Objective 2: From the K-means Cluster Analysis, 3 clusters were generated, with 
 Objective 3: From the regression analysis, the variables age, iteam purchased, discount applied to product and previous purchases did not adquately explianed the variations in the dependent variable purhase amount with an r<sup>2</sup> of 2.3% and r <sub>adj</sub> of 0.01% <br />
 
 Objective 4: From the Chi-Square test, the result shows if there's a significant association between the two categorical variables Promo Code Used and Discount Applied. The chi-square (χ2) had a value of 3900 and _p_>0.05 and an effect size of 1.00 and a _p_>0.05 indictaing that there is a significant association between Promo Code Used and Discount Applied meaning people who use promo codes are more likely to have discounts applied. <br />
-
-Objective 5: From the P.C.A, the variable iteam purchased in the communalities table had  highest variance of 0.644 implying that it contributed the highest to the componet
 
