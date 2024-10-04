@@ -1,6 +1,6 @@
 # SPSS-PROJECT
 # Overview
-This project explores the Consumer Behavior and Shopping Habits Dataset provided by Kaggle. It is a collection of consumer information crucial for market analysis and tailored marketing strategies. It covers Customer IDs for identification, Age and Gender for demographics, and Purchase Amount in USD for transaction value. Details like Item Purchased, Category, and Location provide insights into product preferences and regional trends. Size, Color, and Season data cater to specific consumer choices.<br />
+This project explores the Consumer Behavior and Shopping Habits Dataset provided by [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). It is a collection of consumer information crucial for market analysis and tailored marketing strategies. It covers Customer IDs for identification, Age and Gender for demographics, and Purchase Amount in USD for transaction value. Details like Item Purchased, Category, and Location provide insights into product preferences and regional trends. Size, Color, and Season data cater to specific consumer choices.<br />
 
 Objective 1: Descriptive statistics for the variables Age, Purchase Amount and Review Ratings. This involved the use of frequency count, mean, standard deviation and percentages. <br />
 
