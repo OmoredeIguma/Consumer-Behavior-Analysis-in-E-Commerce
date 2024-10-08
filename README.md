@@ -38,7 +38,7 @@ Objective 7: Retention Analysis (Correlations). This involved the use of correla
    H<sub>1</sub> : There is significant difference between total spend and discount applied. <br />
 
 * Is there a significant relationship between days since last purchase, membership type, and satisfaction level? <br />
-   H<sub>0</sub> : No significant relationships between days since last purchase, membership type, and satisfaction level.
+   H<sub>0</sub> : No significant relationships between days since last purchase, membership type, and satisfaction level. <br />
    H<sub>1</sub> : Significant relationships between days since last purchase, membership type, and satisfaction level. <br />
 
 # Insights
