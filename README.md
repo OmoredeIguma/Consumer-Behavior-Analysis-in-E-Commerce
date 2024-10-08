@@ -29,11 +29,22 @@ Objective 7: Retention Analysis (Correlations). This involved the use of correla
   H<sub>1</sub> : The means are different for total spend and age category  <br />
 
 # Insights
-Objective 1: From the descriptive statistics,Of the 3,900 samples, 24.2% of the customers were above the age 58, with a spending amount of under $60 at 50.9% and a review rating of between 4.0 - 4.9 at 40.4% <br />
+Objective 1: From the descriptive statistics, Of the 350 samples, 50% of the customers were at the age range 31-39, there was equal number of male and female, bronze, silver and gold membership subscribers were of spilt evenly(33.1%) (33.4%) and (33.4%) respectively. Majority of the customers were satisifed <br />
 
-Objective 2: From the K-means Cluster Analysis, 3 clusters were generated, with cluster 1 comprising of steady middle-age buyers. Cluster 2 comprises of young occasional buyers and cluster 3 consisting of old casual buyers. Cluster 1 had the most number of cases at 1,736 indicating  more prevalent customer segments. <br />
+Objective 2: Four customer clusters were identified based on age, items purchased, and total spend:
+* Cluster 1: Older customers (avg. age 32) with low spend.
+* Cluster 2: Oldest customers (avg. age 39) with the lowest spend.
+* Cluster 3: Slightly younger customers (avg. age 31) with moderate spend.
+* Cluster 4: Youngest customers (avg. age 29) with the highest spend.
+Younger customers tend to spend more; the company should focus promotions accordingly​ <br />
 
-Objective 3: From the regression analysis, the variables age, iteam purchased, discount applied to product and previous purchases did not adquately explianed the variations in the dependent variable purhase amount with an r<sup>2</sup> of 2.3% and r <sub>adj</sub> of 0.01% <br />
+Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​ <br />
 
-Objective 4: From the Chi-Square test, the result shows if there's a significant association between the two categorical variables Promo Code Used and Discount Applied. The chi-square (χ2) had a value of 3900 and _p_>0.05 and an effect size of 1.00 and a _p_>0.05 indictaing that there is a significant association between Promo Code Used and Discount Applied thus, we reject the null hyptothesis (H<sub>0</sub>) meaning people who use promo codes are more likely to have discounts applied. <br />
+Objective 4: Customers under 30 spend significantly more ($1,176) compared to those aged 31–39 ($739) and those aged 40–46 ($500). Significant spending differences were found between all age groups​. <br />
+
+Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. <br />
+
+Objective 6: Customers who did not receive a discount spent significantly more ($903) compared to those who did receive a discount ($787). <br />
+
+Objective 7: A negative correlation was found between days since last purchase and membership type, and a positive correlation between days since last purchase and satisfaction level​. <br />
 
