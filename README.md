@@ -2,17 +2,17 @@
 # Overview
 This project explores the E-commerce Customer Behaviour Dataset provided by [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience. <br />
 
-Objective 1: Descriptive statistics for the variables Age, Membership Type and Satisfaction Level. This involved the use of frequency count, mean and percentages. <br />
+Objective 1: Descriptive statistics for the variables Age, Membership Type and Satisfaction Level. This was achieved with the use of frequency count, mean and percentages. <br />
 
 Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to be use for the K-Means Cluster Analysis. <br />
 
-Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is a significant relationship between gender and membership type. <br />
+Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved with the use of chi-square test to examine if there is a significant relationship between gender and membership type. <br />
 
-Objective 4: Analysis of Variance between variables total spend and age category . <br />
+Objective 4: Analysis of Variance between variables total spend and age category. <br />
 
 Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is a significant relationship between Stisfaction level and membership type. <br />
 
-Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This involved the use of t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
+Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This was achieved with the use of t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
 
 Objective 7: Retention Analysis (Correlations). This involved the use of correlation anallysis to study the relationship between days since last purchase" and other variables like satisfaction level and membership type.
 
