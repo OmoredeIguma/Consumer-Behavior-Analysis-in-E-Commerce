@@ -8,7 +8,7 @@ Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of 
 
 Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved with the use of chi-square test to examine if there is a significant relationship between gender and membership type. <br />
 
-Objective 4: Analysis of Variance between variables total spend and age category. <br />
+Objective 4: Analysis of Variance (ANOVA) between variables total spend and age category. <br />
 
 Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is a significant relationship between Stisfaction level and membership type. <br />
 
