@@ -61,3 +61,18 @@ Objective 6: Customers who did not receive a discount spent significantly more (
 
 Objective 7: A negative correlation was found between days since last purchase and membership type, and a positive correlation between days since last purchase and satisfaction level​. <br />
 
+# Hypothesis Test Results
+ * Is there a significant association between gender and membership type? <br />
+  Based on the chi-square test, we rejct the null hypothesis and conclude that there was a signification assocation between gender and membership type <br />
+
+* Is there a significant difference in the means for total spend and age category?
+  From the ANOVA result, we reject the null hypothesis and conclude that the means for total spend and age category was different. <br />
+  
+* Is there a significant association between satisfaction level and membership type?
+  We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
+  
+* Is there a significant difference between total spend and discount applied?
+  The null hypothesis was reject based on the t-test result, indictaing that there was a significant difference between total spend and discount applied. <br />
+  
+* Is there a significant relationship between days since last purchase, membership type, and satisfaction level?
+  From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since last purchase, membership type, and satisfaction level.
