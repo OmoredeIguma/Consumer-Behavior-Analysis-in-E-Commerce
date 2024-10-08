@@ -22,14 +22,27 @@ Objective 7: Retention Analysis (Correlations). This involved the use of correla
 
 # Hypothesis Testing
 * Is there a significant association between gender and membership type? <br />
-  H<sub>0</sub> : There is no significant difference between gender and membership type <br />
-  H<sub>1</sub> : There is significant difference between gender and membership type.
+  H<sub>0</sub> : There is no significant difference between gender and membership type. <br />
+  H<sub>1</sub> : There is significant difference between gender and membership type. <br />
+  
 * Is there a significant difference in the means for total spend and age category? <br />
- H<sub>0</sub> : The means are equal for total spend and age category  <br />
-  H<sub>1</sub> : The means are different for total spend and age category  <br />
+  H<sub>0</sub> : The means are equal for total spend and age category.  <br />
+  H<sub>1</sub> : The means are different for total spend and age category.  <br />
+
+* Is there a significant difference between satisfaction level and membership type? <br />
+  H<sub>0</sub> : There is no significant difference between satisfaction level and membership type. <br />
+  H<sub>1</sub> : There is significant difference between satisfaction level and membership type. <br />
+
+* Is there a significant difference between total spend and discount applied? <br />
+   H<sub>0</sub> : There is no significant difference between total spend and discount applied.
+   H<sub>1</sub> : There is significant difference between total spend and discount applied. <br />
+
+* Is there a significant relationship between days since last purchase, membership type, and satisfaction level? <br />
+   H<sub>0</sub> : No significant relationships between days since last purchase, membership type, and satisfaction level.
+   H<sub>1</sub> : Significant relationships between days since last purchase, membership type, and satisfaction level. <br />
 
 # Insights
-Objective 1: From the descriptive statistics, Of the 350 samples, 50% of the customers were at the age range 31-39, there was equal number of male and female, bronze, silver and gold membership subscribers were of spilt evenly(33.1%) (33.4%) and (33.4%) respectively. Majority of the customers were satisifed <br />
+Objective 1: From the descriptive statistics, Of the 350 samples, 50% of the customers were at the age range 31-39, there were equal number of male and female, bronze, silver and gold membership subscribers were of spilt evenly(33.1%) (33.4%) and (33.4%) respectively. Majority of the customers were satisifed (35.7%) <br />
 
 Objective 2: Four customer clusters were identified based on age, items purchased, and total spend:
 * Cluster 1: Older customers (avg. age 32) with low spend.
