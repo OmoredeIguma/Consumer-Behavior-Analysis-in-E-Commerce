@@ -1,26 +1,26 @@
 # SPSS-PROJECT
 # Overview
-This project explores the Consumer Behavior and Shopping Habits Dataset provided by [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). It is a collection of consumer information crucial for market analysis and tailored marketing strategies. It covers Customer IDs for identification, Age and Gender for demographics, and Purchase Amount in USD for transaction value. Details like Item Purchased, Category, and Location provide insights into product preferences and regional trends. Size, Color, and Season data cater to specific consumer choices.<br />
+This project explores the E-commerce Customer Behaviour Dataset provided by [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience. <br />
 
-Objective 1: Descriptive statistics for the variables Age, Purchase Amount and Review Ratings. This involved the use of frequency count, mean, standard deviation and percentages. <br />
+Objective 1: Descriptive statistics for the variables Age, Membership Type and Satisfaction Level. This involved the use of frequency count, mean and percentages. <br />
 
 Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to be use for the K-Means Cluster Analysis. <br />
 
-Objective 3: Predictive Modeling (Linear Regression) Determinations of the factors influencing the Purchase Amount variables. <br />
+Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is significant relationship between gender and membership type. <br />
 
-Objective 4: Association Analysis (Chi-Square Test) Determination of the relationship between the categorical variables Promo Code Used and Discount Applied. <br />
+Objective 4: Analysis of Variance between variables total spend and age category . <br />
 
 # Tools I Used
 * IBM SPSS 26
 * Microsoft Word <br />
 
 # Hypothesis Testing
-* Is there a significant difference in total spend based on customer segments (e.g., age, frequency of purchase, previous purchases)? <br />
-  H<sub>0</sub> : There is no significant difference in total spend based on customer segments <br />
-  H<sub>1</sub> : There is significant difference in total spend based on customer segments
-* Is there a significant association in promo code used and discount applied? <br />
- H<sub>0</sub> : There is no significant association in promo code used and discount applied <br />
-  H<sub>1</sub> : There is significant association in promo code used and discount applied  <br />
+* Is there a significant association between gender and membership type? <br />
+  H<sub>0</sub> : There is no significant difference between gender and membership type <br />
+  H<sub>1</sub> : There is significant difference between gender and membership type.
+* Is there a significant difference in the means for total spend and age category? <br />
+ H<sub>0</sub> : The means are equal for total spend and age category  <br />
+  H<sub>1</sub> : The means are different for total spend and age category  <br />
 
 # Insights
 Objective 1: From the descriptive statistics,Of the 3,900 samples, 24.2% of the customers were above the age 58, with a spending amount of under $60 at 50.9% and a review rating of between 4.0 - 4.9 at 40.4% <br />
