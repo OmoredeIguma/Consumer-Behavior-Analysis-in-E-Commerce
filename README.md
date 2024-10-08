@@ -6,9 +6,15 @@ Objective 1: Descriptive statistics for the variables Age, Membership Type and S
 
 Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to be use for the K-Means Cluster Analysis. <br />
 
-Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is significant relationship between gender and membership type. <br />
+Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is a significant relationship between gender and membership type. <br />
 
 Objective 4: Analysis of Variance between variables total spend and age category . <br />
+
+Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved the use of chi-square test to examine if there is a significant relationship between Stisfaction level and membership type. <br />
+
+Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This involved the use of t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
+
+Objective 7: Retention Analysis (Correlations). This involved the use of correlation anallysis to study the relationship between days since last purchase" and other variables like satisfaction level and membership type.
 
 # Tools I Used
 * IBM SPSS 26
