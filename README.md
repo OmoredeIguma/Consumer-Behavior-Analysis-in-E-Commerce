@@ -2,6 +2,7 @@
 # Overview
 This project explores the E-commerce Customer Behaviour Dataset provided by [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behavior within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience. <br />
 
+# Objectives
 Objective 1: Descriptive statistics for the variables Age, Membership Type and Satisfaction Level. This was achieved with the use of frequency count, mean and percentages. <br />
 
 Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to be use for the K-Means Cluster Analysis. <br />
