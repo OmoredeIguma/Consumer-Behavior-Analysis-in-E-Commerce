@@ -42,7 +42,7 @@ Objective 7: Retention Analysis (Correlations). This involved the use of correla
    H<sub>1</sub> : Significant relationships between days since last purchase, membership type, and satisfaction level. <br />
 
 # Insights
-Objective 1: From the descriptive statistics, Of the 350 samples, 50% of the customers were at the age range 31-39, there were equal number of male and female, bronze, silver and gold membership subscribers were of spilt evenly(33.1%) (33.4%) and (33.4%) respectively. Majority of the customers were satisifed (35.7%) <br />
+Objective 1: From the descriptive statistics, Of the 348 samples, 49.7% of the customers were of the age range 31-39, there were close number of male and female (50.3%) and (49.7%) respectively, bronze, silver and gold membership subscribers were of spilt evenly(32.8%) (33.6%) and (33.6%) respectively. Majority of the customers were satisifed (35.9%) <br />
 
 Objective 2: Four customer clusters were identified based on age, items purchased, and total spend:
 * Cluster 1: Older customers (avg. age 32) with low spend.
@@ -53,11 +53,11 @@ Younger customers tend to spend more; the company should focus promotions accord
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​ <br />
 
-Objective 4: Customers under 30 spend significantly more ($1,176) compared to those aged 31–39 ($739) and those aged 40–46 ($500). Significant spending differences were found between all age groups​. <br />
+Objective 4: Customers under 30 spend significantly more ($1,176) compared to those aged 31–39 ($742) and those aged 40–46 ($499.9). Significant spending differences were found between all age groups​. <br />
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. <br />
 
-Objective 6: Customers who did not receive a discount spent significantly more ($903) compared to those who did receive a discount ($787). <br />
+Objective 6: Customers who did not receive a discount spent significantly more ($909) compared to those who did receive a discount ($787.27). <br />
 
 Objective 7: A negative correlation was found between days since last purchase and membership type, and a positive correlation between days since last purchase and satisfaction level​. <br />
 
