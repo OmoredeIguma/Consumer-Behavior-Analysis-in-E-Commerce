@@ -54,11 +54,11 @@ Younger customers tend to spend more; the company should focus promotions accord
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​ <br />
 
-Objective 4: Customers under 30 spend significantly more ($1,176) compared to those aged 31–39 ($742) and those aged 40–46 ($499.9). Significant spending differences were found between all age groups​. <br />
+Objective 4: Customers under 30 spend significantly more ($1,176.17) compared to those aged 31–39 ($742.35) and those aged 40–46 ($499.88). Significant spending differences were found between all age groups​. <br />
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. <br />
 
-Objective 6: Customers who did not receive a discount spent significantly more ($909) compared to those who did receive a discount ($787.27). <br />
+Objective 6: Customers who did not receive a discount spent significantly more ($909.01) compared to those who did receive a discount ($787.27). <br />
 
 Objective 7: A negative correlation was found between days since last purchase and membership type, and a positive correlation between days since last purchase and satisfaction level​. <br />
 
