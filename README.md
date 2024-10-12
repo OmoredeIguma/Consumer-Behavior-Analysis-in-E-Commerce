@@ -6,17 +6,17 @@ The transformed dataset used along with the raw SPSS output is presented above a
 # Objectives
 Objective 1: Descriptive statistics for the variables Age, Membership Type, and Satisfaction Level. This was achieved with the use of frequency count, mean, and percentages. <br />
 
-Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to be used for the K-Means Cluster Analysis. <br />
+Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. hierarchical cluster analysis was carried out to obtain the number of clusters to use for the K-Means Cluster Analysis. <br />
 
-Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved with the use of a chi-square test to examine if there is a significant relationship between gender and membership type. <br />
+Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved using a chi-square test to examine if there is a significant relationship between gender and membership type. <br />
 
-Objective 4: Analysis of Variance (ANOVA) between variables total spend and age category. <br />
+Objective 4: Analysis of Variance (ANOVA) between variables total spent and age category. <br />
 
-Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved the use of a chi-square test to examine if there is a significant relationship between satisfaction level and membership type. <br />
+Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved using a chi-square test to examine if there is a significant relationship between satisfaction level and membership type. <br />
 
-Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This was achieved with the use of a t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
+Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This was achieved using a t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
 
-Objective 7: Retention Analysis (Correlations). This was achieved using correlation analysis to study the relationship between the days since last purchase, satisfaction level and membership type.
+Objective 7: Retention Analysis (Correlations). This was achieved using correlation analysis to study the relationship between the days since the last purchase, satisfaction level and membership type.
 
 # Tools I Used
 * IBM SPSS 26
@@ -65,7 +65,7 @@ Objective 7: A negative correlation was found between days since the last purcha
 
 # Hypothesis Test Results
  * Is there a significant association between gender and membership type? <br />
-  Based on the chi-square test, we reject the null hypothesis and conclude that there was a signification association between gender and membership type <br />
+  Based on the chi-square test, we reject the null hypothesis and conclude that there was a significant association between gender and membership type <br />
 
 * Is there a significant difference in the means for total spending and age category?
   From the ANOVA result, we reject the null hypothesis and conclude that the means for total spending and age category were different. <br />
@@ -73,7 +73,7 @@ Objective 7: A negative correlation was found between days since the last purcha
 * Is there a significant association between satisfaction level and membership type?
   We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
   
-* Is there a significant difference between total spend and discount applied?
+* Is there a significant difference between the total spent and discount applied?
   The null hypothesis was rejected based on the t-test result, indicating that there was a significant difference between total spending and the discount applied. <br />
   
 * Is there a significant relationship between days since the last purchase, membership type, and satisfaction level?
