@@ -16,7 +16,7 @@ Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). T
 
 Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This was achieved with the use of a t-test to compare the average total spend between customers who received a discount versus those who did not. <br />
 
-Objective 7: Retention Analysis (Correlations). This involved the use of correlation analysis to study the relationship between days since last purchase" and other variables like satisfaction level and membership type.
+Objective 7: Retention Analysis (Correlations). This was achieved using correlation analysis to study the relationship between the days since last purchase, satisfaction level and membership type.
 
 # Tools I Used
 * IBM SPSS 26
@@ -35,7 +35,7 @@ Objective 7: Retention Analysis (Correlations). This involved the use of correla
   H<sub>0</sub>: There is no significant difference between satisfaction level and membership type. <br />
   H<sub>1</sub>: There is a significant difference between satisfaction level and membership type. <br />
 
-* Is there a significant difference between total spend and discount applied? <br />
+* Is there a significant difference between total spending and discount applied? <br />
    H<sub>0</sub>: There is no significant difference between total spend and discount applied.
    H<sub>1</sub>: There is a significant difference between total spend and discount applied. <br />
 
@@ -74,7 +74,7 @@ Objective 7: A negative correlation was found between days since the last purcha
   We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
   
 * Is there a significant difference between total spend and discount applied?
-  The null hypothesis was rejected based on the t-test result, indicating that there was a significant difference between total spending and discount applied. <br />
+  The null hypothesis was rejected based on the t-test result, indicating that there was a significant difference between total spending and the discount applied. <br />
   
 * Is there a significant relationship between days since the last purchase, membership type, and satisfaction level?
   From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since the last purchase, membership type, and satisfaction level.
