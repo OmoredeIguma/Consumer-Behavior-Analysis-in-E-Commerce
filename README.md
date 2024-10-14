@@ -1,4 +1,4 @@
-# SPSS-PROJECT
+# E-commerce-Customer-Behavior-SPSS-PROJECT
 # Overview
 This project explores the E-commerce Customer Behaviour Dataset provided by [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behaviour within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience. <br />
 The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below is a quick summary of findings as well as recommendations based on the results obtained from the dataset.<br />
