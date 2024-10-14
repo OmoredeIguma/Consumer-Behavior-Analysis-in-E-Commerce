@@ -1,7 +1,7 @@
 # SPSS-PROJECT
 # Overview
 This project explores the E-commerce Customer Behaviour Dataset provided by [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset). This dataset provides a comprehensive view of customer behaviour within an e-commerce platform. Each entry in the dataset corresponds to a unique customer, offering a detailed breakdown of their interactions and transactions. The information is crafted to facilitate a nuanced analysis of customer preferences, engagement patterns, and satisfaction levels, aiding businesses in making data-driven decisions to enhance the customer experience. <br />
-The transformed dataset and the raw SPSS output are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings.<br />
+The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below is a quick summary of findings as well as recommendations based on the results obtained from the dataset.<br />
 
 # Objectives
 Objective 1: Descriptive statistics for Age, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
@@ -51,17 +51,17 @@ Objective 2: Four customer clusters were identified based on age, items purchase
 * Cluster 2: Oldest customers (avg. age 39) with the lowest spend.
 * Cluster 3: Slightly younger customers (avg. age 31) with moderate spending.
 * Cluster 4: Youngest customers (avg. age 29) with the highest spend.
-Younger customers tend to spend more; the company should focus promotions accordingly​ <br />
+Younger customers tend to spend more, therefore, targeted promotions should focus on this high-spending group (Clusters 3 and 4). For older customers (Clusters 1 and 2), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
 
-Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​ <br />
+Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​. The company should focus on designing gender-specific membership upgrade strategies <br />
 
-Objective 4: Customers under 30 spend significantly more ($1,176.17) compared to those aged 31–39 ($742.35) and those aged 40–46 ($499.88). Significant spending differences were found between all age groups. <br />
+Objective 4: Younger customers (under 30) tend to spend more than older ones. Marketing strategies such as loyalty programs and exclusive discounts could help retain these high-spending younger customers, while additional incentives may be needed to encourage spending in the older groups. <br />
 
-Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. <br />
+Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-Objective 6: Customers who did not receive a discount spent significantly more ($909.01) compared to those who did receive a discount ($787.27). <br />
+Objective 6: Customers who did not receive a discount spent significantly more ($909.01) compared to those who did receive a discount ($787.27). Indicating that discounts may be attracting more price-sensitive customers. Future promotions could focus on maintaining customer engagement after the discount period ends. <br />
 
-Objective 7: A negative correlation was found between days since the last purchase and membership type and a positive correlation between days since the last purchase and satisfaction level. <br />
+Objective 7: A negative correlation was found between days since the last purchase and membership type and a positive correlation between days since the last purchase and satisfaction level. Therefore, maintaining engagement through frequent touchpoints and personalized offers could enhance customer satisfaction. <br />
 
 # Hypothesis Test Results
  * Is there a significant association between gender and membership type? <br />
