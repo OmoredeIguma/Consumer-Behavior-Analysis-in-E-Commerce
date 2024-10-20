@@ -4,8 +4,8 @@ This project explores the E-commerce Customer Behaviour Dataset provided by [Kag
 The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below is a quick summary of findings and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
-The variables Age, Gender, Membership Type, Satisfaction level and discount applied were recoded into different variables in SPSS. <br />
-The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases so the entire record about the 2  individuals bearing the missing values was removed. <br />
+The variables Age, Gender, Membership Type, Satisfaction level and discount applied were recoded into different variables. <br />
+The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, so the records about the 2 individuals bearing the missing values were removed thus reducing the total number of observations in the dataset from 350 to 348. <br />
 
 # Objectives
 Objective 1: Descriptive statistics for Age, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
