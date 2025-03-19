@@ -72,7 +72,7 @@ Objective 7: A positively significant correlation was found between days since t
   Based on the chi-square test, we reject the null hypothesis and conclude that there was a significant association between gender and membership type <br />
 
 * Is there a significant difference in the means for total spending and age category?
-  From the ANOVA result, we reject the null hypothesis and conclude that the means for total spending and age category were different. <br />
+  From the ANOVA result, we reject the null hypothesis and conclude that the means for total spending across the different age categories were different. <br />
   
 * Is there a significant association between satisfaction level and membership type?
   We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
