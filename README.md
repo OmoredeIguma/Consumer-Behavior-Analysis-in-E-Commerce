@@ -23,7 +23,7 @@ Objective 6: Effect of Discounts on Purchase Behaviour (t-test ) This was achiev
 Objective 7: Retention Analysis (Correlations). This was achieved using correlation analysis to study the relationship between the days since the last purchase, satisfaction level and membership type.
 
 # Tools I Used
-* IBM SPSS 26
+* IBM SPSS 27
 * Microsoft Word <br />
 
 # Hypothesis Testing
