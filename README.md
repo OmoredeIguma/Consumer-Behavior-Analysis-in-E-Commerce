@@ -65,7 +65,7 @@ Objective 5: Gold members are more likely to report satisfaction, while Bronze a
 
 Objective 6: Customers who did not receive a discount spent significantly more ($909.01) compared to those who did receive a discount ($787.27). Indicating that discounts may be attracting more price-sensitive customers. Future promotions could focus on maintaining customer engagement after the discount period ends. <br />
 
-Objective 7: A negative correlation was found between days since the last purchase and membership type and a positive correlation between days since the last purchase and satisfaction level. Therefore, maintaining engagement through frequent touchpoints and personalized offers could enhance customer satisfaction. <br />
+Objective 7: A positively significant correlation was found between days since the last purchase and satisfaction level (rs = .751, *p* <.001) it could be that satisfied customers don’t feel pressured to buy frequently, and thus, they may only return when they really need something but still report high satisfaction. A correlation between days since the last purchase and membership type was negative and significant (rs = -.480, *p* <.001) indicating that higher-tier members (Gold) purchase more often. Membership type and satisfaction level were negative and significant (rs = -.748, *p* <.001. A possible explanation could be that gold members may expect VIP treatment, so even minor inconveniences lower their satisfaction more than bronze members.. <br />
 
 # Hypothesis Test Results
  * Is there a significant association between gender and membership type? <br />
@@ -81,4 +81,4 @@ Objective 7: A negative correlation was found between days since the last purcha
   The null hypothesis was rejected based on the t-test result, indicating that there was a significant difference between total spending and the discount applied. <br />
   
 * Is there a significant relationship between days since the last purchase, membership type, and satisfaction level?
-  From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since the last purchase, membership type, and satisfaction level.
+  From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since the last purchase, membership type, and satisfaction level. Although, this does not imply causation.
