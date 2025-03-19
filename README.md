@@ -51,11 +51,11 @@ Objective 7: Retention Analysis (Correlations). This was achieved using correlat
 Objective 1: From the descriptive statistics, Of the 348 samples, 49.7% of the customers were of the age range 31-39, and there were a close number of males and females (50.3%) and (49.7%) respectively, bronze, silver, and gold membership subscribers were split evenly(32.8%) (33.6%) and (33.6%) respectively. The majority of the customers were satisfied (35.9%) <br />
 
 Objective 2: Four customer clusters were identified based on age, items purchased, and total spending:
-* Cluster 1: Older customers (avg. age 32) with low spending.
+* Cluster 1: Youngest customers (avg. age 29) with the highest spending.
 * Cluster 2: Oldest customers (avg. age 39) with the lowest spend.
 * Cluster 3: Slightly younger customers (avg. age 31) with moderate spending.
-* Cluster 4: Youngest customers (avg. age 29) with the highest spend.
-Younger customers tend to spend more, therefore, targeted promotions should focus on this high-spending group (Clusters 3 and 4). For older customers (Clusters 1 and 2), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
+* Cluster 4: Older customers (avg. age 32) with low spending.
+Younger customers tend to spend more, therefore, targeted promotions should focus on this high-spending group (Clusters 1 and 3). For older customers (Clusters 2 and 4), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
 
 Objective 3: A significant relationship was found between gender and membership type. Female customers are more likely to have Bronze memberships, while males are more likely to have Gold memberships​. The company should focus on designing gender-specific membership upgrade strategies <br />
 
