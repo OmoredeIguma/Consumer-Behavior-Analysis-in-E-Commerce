@@ -43,7 +43,7 @@ Objective 7: Retention Analysis (Correlations). This was achieved using correlat
   H<sub>1</sub>: There is a significant difference between satisfaction level and membership type. <br />
 
 * Is there a significant difference between total spending and discount applied? <br />
-   H<sub>0</sub>: There is no significant difference between total spend and discount applied.
+   H<sub>0</sub>: There is no significant difference between total spend and discount applied. <br />
    H<sub>1</sub>: There is a significant difference between total spend and discount applied. <br />
 
 * Is there a significant relationship between days since the last purchase, membership type, and satisfaction level? <br />
@@ -66,22 +66,22 @@ Objective 4: Younger customers (under 30) tend to spend more than older ones. Ma
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-Objective 6: Customers who did not receive a discount spent significantly more ($909.01) compared to those who did receive a discount ($787.27). Indicating that discounts may be attracting more price-sensitive customers. Future promotions could focus on maintaining customer engagement after the discount period ends. <br />
+Objective 6: There was no significant difference in total amount spent for Customers that received a discount ($820.56) and those who did not receive a discount ($874.73). Indicating that discounts have no effect on the spending habit of the consumers. <br />
 
 Objective 7: A positively significant correlation was found between satisfaction level and days since the last purchase (rs = .751, *p* <.001) it could be that satisfied customers don’t feel pressured to buy frequently, and thus, they may only return when they really need something but still report high satisfaction. A correlation between membership type and days since the last purchase was negative and significant (rs = -.480, *p* <.001) indicating that higher-tier members (Gold) purchase more often. Membership type and satisfaction level were negative and significant (rs = -.748, *p* <.001. A possible explanation could be that gold members may expect VIP treatment, so even minor inconveniences may lower their satisfaction more than bronze members.. <br />
 
 # Hypothesis Test Results
  * Is there a significant association between gender and membership type? <br />
-  Based on the chi-square test, we reject the null hypothesis and conclude that there was a significant association between gender and membership type <br />
+  -Based on the chi-square test, we reject the null hypothesis and conclude that there was a significant association between gender and membership type <br />
 
-* Is there a significant difference in the means for total spending and age category?
-  From the ANOVA result, we reject the null hypothesis and conclude that the means for total spending across the different age categories were different. <br />
+* Is there a significant difference in the means for total spending and age category? <br />
+  -From the ANOVA result, we reject the null hypothesis and conclude that the means for total spending across the different age categories were different. <br />
   
-* Is there a significant association between satisfaction level and membership type?
-  We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
+* Is there a significant association between satisfaction level and membership type? <br />
+  -We reject the null hypothesis and conclude that there was a significant association between satisfaction level and membership type. <br />
   
-* Is there a significant difference between the total spent and discount applied?
-  The null hypothesis was rejected based on the t-test result, indicating that there was a significant difference between total spending and the discount applied. <br />
+* Is there a significant difference between the total spent and discount applied? <br />
+  -The null hypothesis was retained based on the t-test result, indicating that there was no significant difference between total spending and the discount applied. <br />
   
-* Is there a significant relationship between days since the last purchase, membership type, and satisfaction level?
-  From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since the last purchase, membership type, and satisfaction level. Although, this does not imply causation.
+* Is there a significant relationship between days since the last purchase, membership type, and satisfaction level? <br />
+  -From the correlation analysis, we reject the null hypothesis and conclude that there was a significant relationship between days since the last purchase, membership type, and satisfaction level. Although, this does not imply causation.
