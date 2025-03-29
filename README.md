@@ -4,7 +4,7 @@ This project explores the E-commerce Customer Behaviour Dataset provided by [Kag
 
 Note: This dataset was synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental. <br />
 
-The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below is a quick summary of findings and recommendations based on the results obtained from the dataset.<br />
+The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below this readme file is a quick summary of findings and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
 The variables Age, Gender, Membership Type, Satisfaction level and Discount Applied were recoded into different variables. <br />
