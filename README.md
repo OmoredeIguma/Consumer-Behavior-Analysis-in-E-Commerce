@@ -7,7 +7,7 @@ Note: This dataset was synthetically generated for illustrative purposes, and an
 The transformed dataset and the raw SPSS output file are presented above along with the results and discussions in a Word document presented in APA 7th edition format which goes in-depth into the findings. Below this readme file is a quick summary of findings and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
-The variables Age, Gender, Membership Type, Satisfaction level and Discount Applied were recoded into different variables. <br />
+An age category variable measured on an ordinal scale was created using the Age variable, while Gender, Discount Applied, Membership Type, and Satisfaction level were recoded into different variables measured on a norminal and ordinal scale respectively. <br />
 The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, so the records on the 2 individuals bearing the missing values were removed thus reducing the total number of records in the dataset from 350 to 348. Furthermore, the variable Total Spent was not normally distributed so, a box-cox transformation was done to achieve normality.
 
 # Objectives
