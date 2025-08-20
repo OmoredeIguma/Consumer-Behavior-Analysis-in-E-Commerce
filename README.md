@@ -6,11 +6,11 @@ Visualisations can be found [Here](https://omoredeiguma.github.io/Website-Hostin
 
 Note: This dataset was synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental. <br />
 
-The transformed dataset and the raw SPSS output file are presented above, along with the results and discussions in a Word document presented in APA 7th edition format, which goes in-depth into the findings. Below this readme file is a quick summary of findings and recommendations based on the results obtained from the dataset.<br />
+The transformed dataset and the raw SPSS output file are presented above, along with the results and discussions in a Word document presented in APA 7th edition format, which goes in-depth into the findings. Below this README file is a summary of the findings and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
 An age category variable measured on an ordinal scale was created using the Age variable, while Gender, Discount Applied, Membership Type, and Satisfaction level were recoded into different variables measured on a nominal and ordinal scale, respectively. <br />
-The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, which were replaced using the mode (the most frequent). Furthermore, the variable Total Spent was not normally distributed in order to conduct a  one-way ANOVA and an independent samples t-test, so a Box-Cox transformation was done to achieve normality.
+The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, which were replaced using the mode (the most frequent). Furthermore, the variable Total Spent was not normally distributed in order to conduct a  one-way ANOVA and an independent samples t-test, so an Inverse Normal Transformation was done to achieve normality.
 
 # Objectives
 Objective 1: Descriptive statistics for Age, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
