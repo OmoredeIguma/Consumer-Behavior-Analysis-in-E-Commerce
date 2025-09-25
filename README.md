@@ -6,22 +6,22 @@ Visualisations can be found [Here](https://omoredeiguma.github.io/Website-Hostin
 
 Note: This dataset was synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental. <br />
 
-The transformed dataset and the raw SPSS output file are presented above, along with the results and discussions in a Word document presented in APA 7th edition format, which goes in-depth into the findings. Below this README file is a summary of the findings and recommendations based on the results obtained from the dataset.<br />
+The transformed dataset and the raw SPSS output file are presented above, along with the results and discussion in a Word document formatted in APA 7th edition, which provides an in-depth analysis of the findings. Below this README file is a summary of the conclusions and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
 An age category variable measured on an ordinal scale was created using the Age variable, while Gender, Discount Applied, Membership Type, and Satisfaction level were recoded into different variables measured on a nominal and ordinal scale, respectively. <br />
-The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, which were replaced using the mode (the most frequent). Furthermore, the variable Total Spent was not normally distributed in order to conduct a  one-way ANOVA and an independent samples t-test, so an Inverse Normal Transformation was done to achieve normality.
+The descriptive statistics option was used to check for missing values in the dataset. The variable "Satisfaction level" had 2 missing cases, which were replaced using the mode (the most frequent). Furthermore, the variable Total Spent was not normally distributed in order to conduct an independent samples t-test, so an Inverse Normal Transformation was done to achieve normality.
 
 # Objectives
-Objective 1: Descriptive statistics for Age, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
+Objective 1: Descriptive statistics for Age Category, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
 
-Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of hierarchical cluster analysis and K-Means Cluster Analysis. Hierarchical cluster analysis was carried out to obtain the number of clusters that would be used for the K-Means Cluster Analysis. <br />
+Objective 2: Customer Segmentation (Cluster Analysis). This involved the use of the elbow method and K-Means Cluster Analysis. The elbow method was used to obtain the optimal number of clusters that would be used for the K-Means Cluster Analysis. <br />
 
-Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved using a chi-square test to examine if there is a significant relationship between gender and membership type. <br />
+Objective 3: Relationship Between Demographics and Spending (Chi-Square Test for Association). This was achieved using a chi-square test for independence to examine if there is a significant relationship between gender and membership type. <br />
 
-Objective 4: Analysis of Variance (ANOVA) between variables total spent and age category. <br />
+Objective 4: Analysis of Variance (ANOVA) between the variables total spent and age category. <br />
 
-Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved using a chi-square test to examine if there is a significant relationship between satisfaction level and membership type. <br />
+Objective 5: Customer Satisfaction Analysis (Chi-Square Test for Association). This involved using a chi-square test for independence to examine if there is a significant relationship between satisfaction level and membership type. <br />
 
 Objective 6: Effect of Discounts on Purchase Behaviour (t-test ). This was achieved using a t-test to compare the average total spent between customers who received a discount versus those who did not. <br />
 
@@ -44,7 +44,7 @@ Objective 7: Retention Analysis (Correlations). This was achieved using correlat
   H<sub>0</sub>: There is no significant difference between satisfaction level and membership type. <br />
   H<sub>1</sub>: There is a significant difference between satisfaction level and membership type. <br />
 
-* Is there a significant difference between total spending and discount applied? <br />
+* Is there a significant difference between total spending and the discount applied? <br />
    H<sub>0</sub>: There is no significant difference between total spend and discount applied. <br />
    H<sub>1</sub>: There is a significant difference between total spend and discount applied. <br />
 
@@ -53,9 +53,9 @@ Objective 7: Retention Analysis (Correlations). This was achieved using correlat
    H<sub>1</sub>: Significant relationships between days since last purchase, membership type, and satisfaction level. <br />
 
 # Insights
-Objective 1: From the descriptive statistics, Of the 350 samples, 63.7% of the customers were of the age range 31-39, and there were an equal distribution of gender (50%), bronze, silver, and gold membership subscribers were split evenly(33.4%) (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
+Objective 1: From the descriptive statistics, of the 350 samples, 63.7% of the customers were in the age range 31-39, and there was an equal distribution of gender (50%). Bronze, silver, and gold membership subscribers were split evenly(33.4%), (33.4%) and (33.4%) respectively. The majority of the customers were satisfied (36.3%) <br />
 
-Objective 2: Four customer clusters were identified based on age, items purchased, and total spending:
+Objective 2: Two customer clusters were identified based on age, items purchased, and total spending:
 * Cluster 1: Older customers (avg. age 35) with the lowest spending.
 * Cluster 2: Younger customers (avg. age 30) with the highest spending.
 Younger customers tend to spend more; therefore, targeted promotions should focus on this high-spending group. For older customers (Cluster 2), marketing strategies should be developed to encourage more spending and larger purchases. accordingly​ <br />
@@ -66,7 +66,7 @@ Objective 4: Younger customers (20-29) tend to spend more than older ones. Marke
 
 Objective 5: Gold members are more likely to report satisfaction, while Bronze and Silver members report lower satisfaction levels. The company should consider enhancing the experience for Bronze and Silver members to improve satisfaction and retention. <br />
 
-Objective 6: There was no significant difference in total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
+Objective 6: There was no significant difference in the total amount spent for Customers who received a discount ($821.40) and those who did not receive a discount ($868.99). This indicates that discounts do not affect the spending habits of consumers. <br />
 
 Objective 7: A positively significant correlation was found between satisfaction level and days since the last purchase (rs = .747, *p* <.001). It could be that satisfied customers don’t feel pressured to buy frequently, and thus, they may only return when they really need something, but still report high satisfaction. A correlation between membership type and days since the last purchase was negative and significant (rs = -.476, *p* <.001), indicating that higher-tier members (Gold) purchase more often. Membership type and satisfaction level were negative and significant (rs = -.733, *p* <.001. A possible explanation could be that gold members may expect VIP treatment, so even minor inconveniences may lower their satisfaction more than bronze members. <br />
 
