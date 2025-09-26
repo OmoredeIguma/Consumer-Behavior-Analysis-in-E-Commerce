@@ -15,7 +15,7 @@ The descriptive statistics option was used to check for missing values in the da
 # Objectives
 Objective 1: Descriptive statistics for Age Category, Membership Type, and Satisfaction Level. This was achieved using frequency count, mean, and percentages. <br />
 
-Objective 2: Customer Segmentation. This involved the use of the elbow method and K-Means Cluster Analysis. The elbow method was used to obtain the optimal number of clusters that would be used for the K-Means Cluster Analysis. <br />
+Objective 2: Customer Segmentation. This involved the use of the elbow method and K-means cluster analysis. The elbow method was used to determine the optimal number of clusters for the K-Means Cluster Analysis. <br />
 
 Objective 3: Relationship Between Gender and Membership Type. This was achieved using a chi-square test for independence to examine if there is a significant relationship between gender and membership type. <br />
 
