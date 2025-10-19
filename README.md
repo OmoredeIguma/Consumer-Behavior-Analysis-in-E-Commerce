@@ -6,7 +6,7 @@ Visualisations can be found [Here](https://omoredeiguma.github.io/Website-Hostin
 
 Note: This dataset was synthetically generated for illustrative purposes, and any resemblance to real individuals or scenarios is coincidental. <br />
 
-The transformed dataset and the raw SPSS output file are presented above, along with the results and discussion in a Word document formatted in APA 7th edition, which provides an in-depth analysis of the findings. Below this README file is a summary of the conclusions and recommendations based on the results obtained from the dataset.<br />
+The transformed dataset, syntax and the raw SPSS output file are presented above, along with the results and discussion in a Word document formatted in APA 7th edition, which provides an in-depth analysis of the findings. Below this README file is a summary of the conclusions and recommendations based on the results obtained from the dataset.<br />
 
 # Data Preparation
 An age category variable measured on an ordinal scale was created using the Age variable, while Gender, Discount Applied, Membership Type, and Satisfaction level were recoded into different variables measured on a nominal and ordinal scale, respectively. <br />
